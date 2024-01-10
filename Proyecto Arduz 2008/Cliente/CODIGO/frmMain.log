@@ -1,0 +1,34 @@
+Line 36: Class SocketWrenchCtrl.Socket of control Socket1 was not a loaded control class.
+Line 122: Class MSWinsockLib.Winsock of control Winsock1 was not a loaded control class.
+Line 609: Class RichTextLib.RichTextBox of control RecTxt was not a loaded control class.
+Line 39: The property name _Version in Socket1 is invalid.
+Line 40: The property name _ExtentX in Socket1 is invalid.
+Line 41: The property name _ExtentY in Socket1 is invalid.
+Line 42: The property name _StockProps in Socket1 is invalid.
+Line 43: The property name AutoResolve in Socket1 is invalid.
+Line 44: The property name Backlog in Socket1 is invalid.
+Line 45: The property name Binary in Socket1 is invalid.
+Line 46: The property name Blocking in Socket1 is invalid.
+Line 47: The property name Broadcast in Socket1 is invalid.
+Line 48: The property name BufferSize in Socket1 is invalid.
+Line 49: The property name HostAddress in Socket1 is invalid.
+Line 50: The property name HostFile in Socket1 is invalid.
+Line 51: The property name HostName in Socket1 is invalid.
+Line 52: The property name InLine in Socket1 is invalid.
+Line 53: The property name Interval in Socket1 is invalid.
+Line 54: The property name KeepAlive in Socket1 is invalid.
+Line 55: The property name Library in Socket1 is invalid.
+Line 56: The property name Linger in Socket1 is invalid.
+Line 57: The property name LocalPort in Socket1 is invalid.
+Line 58: The property name LocalService in Socket1 is invalid.
+Line 59: The property name Protocol in Socket1 is invalid.
+Line 60: The property name RemotePort in Socket1 is invalid.
+Line 61: The property name RemoteService in Socket1 is invalid.
+Line 62: The property name ReuseAddress in Socket1 is invalid.
+Line 63: The property name Route in Socket1 is invalid.
+Line 64: The property name Timeout in Socket1 is invalid.
+Line 65: The property name Type in Socket1 is invalid.
+Line 66: The property name Urgent in Socket1 is invalid.
+Line 125: The property name _ExtentX in Winsock1 is invalid.
+Line 126: The property name _ExtentY in Winsock1 is invalid.
+Line 127: The property name _Version in Winsock1 is invalid.
